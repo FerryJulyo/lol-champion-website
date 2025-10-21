@@ -30,4 +30,4 @@ A futuristic web application built with Laravel that displays League of Legends 
 
 ## 🏞️ Screenshot
 
-![League of Legends Database](public/images/lol_database.png)
+![League of Legends Database](screenshot/lol_database.png)
