@@ -27,3 +27,7 @@ A futuristic web application built with Laravel that displays League of Legends 
 - Composer
 - Laravel 9+
 - Internet connection (for API calls)
+
+## 🏞️ Screenshot
+
+![League of Legends Database](public/images/lol_database.png)
